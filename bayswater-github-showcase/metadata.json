@@ -1,0 +1,6 @@
+{
+  "name": "Bayswater GitHub Showcase",
+  "description": "An elegant, interactive showcase for the Bayswater GitHub organization featuring modern geometric designs, live repository listing, interactive quant performance backtest simulators, and contributor spotlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
